@@ -148,3 +148,9 @@ data-center-sla-analytics/
 ## Dashboard File
 You can download and explore the full Power BI dashboard here:
 [Download Power BI Dashboard](dashboard/data-center-sla-dashboard.pbix)
+
+## Data Disclaimer
+
+All datasets used in this project have been anonymized and transformed to remove any sensitive, proprietary, or site-specific information.
+
+Data structures, naming conventions, and values have been modified and generalized for portfolio and demonstration purposes. Any resemblance to real systems or facilities is purely coincidental.
