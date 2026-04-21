@@ -3,6 +3,8 @@ This project designs and implements a data-driven SLA analytics framework to mon
 
 It transforms raw telemetry into KPI-driven dashboards that track thermal behavior, humidity control, liquid cooling consistency, and energy utilization across Building 1 Areas A–D and Core using Statistical Process Control (SPC).
 
+The analysis is based on a representative sample of telemetry data (February 2026), used to simulate operational conditions and define SPC-based SLA thresholds.
+
 ## Business Problem
 Data center operations lacked **standardized SLA thresholds** for environmental and power systems, limiting visibility into:
 - Operational stability across different areas
