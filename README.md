@@ -54,11 +54,11 @@ The Power BI dashboard is structured into five analytical views:
 - Control temperature analysis 
 - Distribution and variability assessment
 
-**3. Environmental Stability – Humidity** 
+**3. Environmental Stability – Humidity Systems** 
 - Relative humidity trends and excursions 
 - Sensor-level stability comparison 
 
-**4. Thermal Stability – Liquid Cooling (TCS)** 
+**4. Thermal Stability – Liquid Cooling TCS** 
 - Node temperature control performance 
 - Distribution and out-of-control detection 
 
@@ -106,8 +106,8 @@ Performance differences between areas highlight lack of standardization:
 ```bash
 data-center-sla-analytics/
 │
-├── data/          # Anonymized datasets (raw and cleaned)
 ├── dashboard/     # Power BI file (.pbix)
+├── data/          # Anonymized datasets (raw and cleaned)
 ├── images/        # Dashboard screenshots
 └── README.md
 ```
@@ -120,3 +120,21 @@ data-center-sla-analytics/
 - Expand the model to support cross-system performance optimization and energy efficiency analysis  
 
 ## Dashboard Preview
+### Air Temperature – Distribution Systems
+![Air Temperature](images/air-temperature-spc.png)
+
+### Cooling Performance – CRAH Units
+![CRAH Performance](images/crah-performance.png)
+
+### Environmental Stability – Humidity Systems
+![Humidity](images/humidity-analysis.png)
+
+### Thermal Stability – Liquid Cooling TCS
+![Liquid Cooling](images/liquid-cooling.png)
+
+### Power Utilization Analysis
+![Power](images/power-utilization.png)
+
+## Dashboard File
+You can download and explore the full Power BI dashboard here:
+[Download Power BI Dashboard](dashboard/data-center-sla-dashboard.pbix)
