@@ -97,14 +97,14 @@ Performance differences between areas highlight lack of standardization:
 - Liquid cooling ranges from 100% (Area B) to 89.3% (Area C).
 
 ## Root Cause Analysis Perspective
-Key insights were further analyzed using a root cause analysis (RCA) approach to identify potential drivers of instability.
+Key insights were further examined through a root cause analysis (RCA) lens to identify potential drivers of instability.
 
-For example, lower power stability compared to thermal systems suggests possible causes such as:
-- Load variability across time
-- Inefficient power distribution
-- Data quality inconsistencies in telemetry
+In particular, lower power stability compared to thermal system stability suggests that performance variation may be influenced by factors such as:
+- Load variability over time  
+- Power utilization imbalance across operating conditions  
+- Data quality inconsistencies in telemetry records
 
-These findings highlight opportunities for improving data validation processes and optimizing energy performance strategies.
+These findings indicate that instability may not be driven by a single factor, but rather by a combination of operational variability and measurement quality issues. This creates opportunities to strengthen data validation processes and improve energy performance monitoring strategies.
 
 ## Tools & Technologies
 - **Power BI** → Data visualization and dashboard development 
