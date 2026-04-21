@@ -96,6 +96,16 @@ Performance differences between areas highlight lack of standardization:
 - Humidity is perfectly stable in Areas A and D (100%) but variable in others  
 - Liquid cooling ranges from 100% (Area B) to 89.3% (Area C).
 
+## Root Cause Analysis Perspective
+Key insights were further analyzed using a root cause analysis (RCA) approach to identify potential drivers of instability.
+
+For example, lower power stability compared to thermal systems suggests possible causes such as:
+- Load variability across time
+- Inefficient power distribution
+- Data quality inconsistencies in telemetry
+
+These findings highlight opportunities for improving data validation processes and optimizing energy performance strategies.
+
 ## Tools & Technologies
 - **Power BI** → Data visualization and dashboard development 
 - **Power Query (M)** → Data transformation and ETL 
